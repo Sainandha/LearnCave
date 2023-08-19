@@ -1,0 +1,12 @@
+1) Landing Page
+2) Home Page
+3) Services Page
+	i)Test Page
+4) Blog Page
+5) About US 
+6) Contact us 
+7) Cart	
+8) Be a Contributor
+9) Login
+10)Register
+11) Forgot password
