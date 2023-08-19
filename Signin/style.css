@@ -226,6 +226,7 @@
   height: 12px;
   top: 3px;
   left: 0;
+  
 }
 
 .sign-in .dont-have-an-account {
@@ -240,6 +241,13 @@
   position: absolute;
   width: 170px;
   height: 41px;
-  top: 0;
+  top: -75px;
   left: 125px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+  max-width: 100%;
+  max-height: 100%;
+  transform: scale(2.0);
 }

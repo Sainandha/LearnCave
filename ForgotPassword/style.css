@@ -5,7 +5,15 @@
   justify-content: center;
   width: 100%;
 }
+.image-placeholder .img-right{
+  width:;
+  height: auto;
+  background-color: #f0f0f0;
 
+  background-size: cover;
+  background-position: 70% 70%;
+  background-repeat: no-repeat;
+}
 .forgot-password .forgot-password-wrapper {
   background-color: #fff7df;
   overflow: hidden;
