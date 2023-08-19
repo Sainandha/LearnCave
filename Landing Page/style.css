@@ -1,0 +1,2861 @@
+.landingpage {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.landingpage .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  border: 0px none;
+  width: 1500px;
+  height: 7042px;
+  position: relative;
+}
+
+.landingpage .overlap {
+  position: absolute;
+  width: 1932px;
+  height: 1980px;
+  top: 812px;
+  left: -428px;
+}
+
+.landingpage .about {
+  width: 1928px;
+  height: 1332px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.landingpage .overlap-group {
+  position: relative;
+  height: 1332px;
+}
+
+.landingpage .rectangle {
+  position: absolute;
+  width: 1500px;
+  height: 1154px;
+  top: 0;
+  left: 428px;
+  background-color: #fff7df;
+  transform: rotate(180deg);
+}
+
+.landingpage .about-us {
+  width: 1853px;
+  height: 864px;
+  top: 469px;
+  position: absolute;
+  left: 0;
+}
+
+.landingpage .overlap-2 {
+  position: absolute;
+  width: 781px;
+  height: 844px;
+  top: 10px;
+  left: 428px;
+}
+
+.landingpage .element {
+  width: 781px;
+  height: 836px;
+  top: 8px;
+  position: absolute;
+  left: 0;
+}
+
+.landingpage .image-placeholder {
+  position: absolute;
+  width: 772px;
+  height: 836px;
+  top: 0;
+  left: 0;
+}
+
+.landingpage .overlap-3 {
+  position: absolute;
+  width: 387px;
+  height: 228px;
+  top: 323px;
+  left: 1315px;
+}
+
+.landingpage .semaj-africa-is-an {
+  width: 387px;
+  top: 0;
+  left: 0;
+  color: #5c5c5c;
+  font-size: 14px;
+  line-height: 24.6px;
+  position: absolute;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.landingpage .button {
+  top: 172px;
+  left: 0;
+  position: absolute;
+  width: 160px;
+  height: 56px;
+}
+
+.landingpage .group {
+  height: 56px;
+}
+
+.landingpage .overlap-group-wrapper {
+  width: 162px;
+  height: 56px;
+  
+}
+.overlap-group-wrapper .div-wrapper{
+  top:70px;
+  left: 10px;
+}
+.landingpage .div-wrapper {
+  position: relative;
+  width: 160px;
+  height: 56px;
+  right:157px;
+  top:-18px;
+  border-radius: 100px;
+  box-shadow: 0px 12px 35px #a0780033;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+}
+
+.landingpage .text-wrapper {
+  color: #ffffff;
+  position: absolute;
+  top: 20px;
+  left: 53px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .learn-a-skill-build {
+  position: absolute;
+  width: 534px;
+  top: 113px;
+  left: 1315px;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 63.3px;
+}
+.learn-a-skill-build{
+  right: 20px;
+}
+
+.landingpage .span {
+  color: #000000;
+}
+
+.landingpage .text-wrapper-2 {
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #000000;
+}
+
+.landingpage .divider {
+  position: absolute;
+  width: 1501px;
+  height: 183px;
+  top: 1109px;
+  left: 427px;
+  background-color: #fff7df;
+}
+
+.landingpage .features {
+  position: absolute;
+  width: 936px;
+  height: 215px;
+  top: 144px;
+  left: 710px;
+}
+
+.landingpage .learn-anywhere {
+  position: absolute;
+  width: 280px;
+  height: 200px;
+  top: 3px;
+  left: 660px;
+}
+
+.landingpage .text-wrapper-3 {
+  position: absolute;
+  width: 153px;
+  top: 126px;
+  left: 61px;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #5c5c5c;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 36.5px;
+  white-space: nowrap;
+}
+
+.landingpage .p {
+  position: absolute;
+  width: 276px;
+  top: 160px;
+  left: 0;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .icon {
+  width: 123px;
+  height: 101px;
+  left: 64px;
+  position: absolute;
+  top: 0;
+}
+
+.landingpage .overlap-group-2 {
+  position: relative;
+  height: 101px;
+}
+
+.landingpage .img {
+  position: absolute;
+  width: 85px;
+  height: 85px;
+  top: 0;
+  left: 0;
+}
+
+.landingpage .group-2 {
+  position: absolute;
+  width: 98px;
+  height: 91px;
+  top: 10px;
+  left: 25px;
+}
+
+.landingpage .expert-teachers {
+  position: absolute;
+  width: 257px;
+  height: 212px;
+  top: 3px;
+  left: 331px;
+}
+
+.landingpage .text-wrapper-4 {
+  position: absolute;
+  width: 158px;
+  top: 126px;
+  left: 48px;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #5c5c5c;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 36.5px;
+  white-space: nowrap;
+}
+
+.landingpage .text-wrapper-5 {
+  position: absolute;
+  width: 253px;
+  top: 160px;
+  left: 0;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .icon-2 {
+  width: 105px;
+  height: 94px;
+  left: 62px;
+  position: absolute;
+  top: 0;
+}
+
+.landingpage .overlap-group-3 {
+  position: relative;
+  width: 107px;
+  height: 96px;
+}
+
+.landingpage .group-3 {
+  position: absolute;
+  width: 88px;
+  height: 89px;
+  top: 7px;
+  left: 19px;
+}
+
+.landingpage .unlimited-access {
+  position: absolute;
+  width: 259px;
+  height: 182px;
+  top: 0;
+  left: 0;
+}
+
+.landingpage .text-wrapper-6 {
+  position: absolute;
+  width: 183px;
+  top: 129px;
+  left: 36px;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #5c5c5c;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 36.5px;
+  white-space: nowrap;
+}
+
+.landingpage .text-wrapper-7 {
+  position: absolute;
+  width: 255px;
+  top: 159px;
+  left: 0;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .icons {
+  position: absolute;
+  width: 92px;
+  height: 102px;
+  top: 0;
+  left: 72px;
+}
+
+.landingpage .success-stories {
+  position: absolute;
+  width: 1513px;
+  height: 832px;
+  top: 1148px;
+  left: 419px;
+}
+
+.landingpage .overlap-4 {
+  position: relative;
+  width: 1500px;
+  height: 832px;
+  left: 9px;
+}
+
+.landingpage .rectangle-2 {
+  position: absolute;
+  width: 1500px;
+  height: 827px;
+  top: 5px;
+  left: 0;
+  transform: rotate(180deg);
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+}
+
+.landingpage .group-wrapper {
+  top: 550px;
+  left: 159px;
+  position: absolute;
+  width: 160px;
+  height: 56px;
+}
+
+.landingpage .overlap-group-4 {
+  position: relative;
+  width: 160px;
+  height: 56px;
+  background-color: #ffffff;
+  border-radius: 100px;
+  box-shadow: 0px 12px 35px #a0780033;
+}
+
+.landingpage .text-wrapper-8 {
+  color: #ffc000;
+  position: absolute;
+  top: 20px;
+  left: 53px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .text-wrapper-9 {
+  position: absolute;
+  width: 371px;
+  top: 144px;
+  left: 159px;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 63.3px;
+}
+
+.landingpage .semaj-africa-is-an-2 {
+  width: 346px;
+  top: 357px;
+  left: 159px;
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 24.6px;
+  position: absolute;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.landingpage .group-4 {
+  position: absolute;
+  width: 558px;
+  height: 778px;
+  top: 0;
+  left: 0;
+}
+
+.landingpage .media-placeholders {
+  position: absolute;
+  width: 803px;
+  height: 676px;
+  top: 81px;
+  left: 566px;
+}
+
+.landingpage .image-placeholder-2 {
+  position: absolute;
+  width: 283px;
+  height: 263px;
+  top: 124px;
+  left: 178px;
+  background-color: var(--x2-black-79);
+  border-radius: 5px;
+}
+
+.landingpage .image-placeholder-3 {
+  position: absolute;
+  width: 159px;
+  height: 219px;
+  top: 264px;
+  left: 0;
+  background-color: var(--x2-black-79);
+  border-radius: 5px;
+}
+
+.landingpage .image-placeholder-4 {
+  position: absolute;
+  width: 280px;
+  height: 219px;
+  top: 0;
+  left: 497px;
+  background-color: var(--x2-black-79);
+  border-radius: 5px;
+}
+
+.landingpage .image-placeholder-5 {
+  position: absolute;
+  width: 102px;
+  height: 140px;
+  top: 246px;
+  left: 479px;
+  background-color: var(--x2-black-79);
+  border-radius: 5px;
+}
+
+.landingpage .image-placeholder-6 {
+  position: absolute;
+  width: 102px;
+  height: 140px;
+  top: 413px;
+  left: 178px;
+  background-color: var(--x2-black-79);
+  border-radius: 5px;
+}
+
+.landingpage .image-placeholder-7 {
+  position: absolute;
+  width: 203px;
+  height: 281px;
+  top: 273px;
+  left: 600px;
+  background-color: var(--x2-black-79);
+  border-radius: 5px;
+}
+
+.landingpage .placeholder {
+  position: absolute;
+  width: 285px;
+  height: 263px;
+  top: 413px;
+  left: 298px;
+}
+
+.landingpage .overlap-group-5 {
+  position: relative;
+  width: 283px;
+  height: 263px;
+  background-color: #212121;
+  border-radius: 5px;
+}
+
+.landingpage .play-button {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  top: 107px;
+  left: 117px;
+}
+
+.landingpage .text-wrapper-10 {
+  width: 130px;
+  top: 208px;
+  left: 32px;
+  font-family: "Proxima Nova-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  line-height: 22.2px;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.landingpage .group-5 {
+  position: absolute;
+  width: 97px;
+  height: 89px;
+  top: 1815px;
+  left: -3848px;
+}
+
+.landingpage .overlap-5 {
+  position: absolute;
+  width: 2652px;
+  height: 2529px;
+  top: 4517px;
+  left: -574px;
+}
+
+.landingpage .contact-us {
+  position: absolute;
+  width: 2652px;
+  height: 1210px;
+  top: 1278px;
+  left: 0;
+}
+
+.landingpage .overlap-6 {
+  position: relative;
+  width: 1500px;
+  height: 1210px;
+  left: 574px;
+  background-image: url(./img/stylish-feel.png);
+  background-size: 100% 100%;
+  top:100px;
+}
+
+.landingpage .overlap-7 {
+  position: absolute;
+  width: 729px;
+  height: 664px;
+  top: 343px;
+  left: 0;
+}
+
+.landingpage .element-2 {
+  width: 729px;
+  height: 653px;
+  top: 11px;
+  position: absolute;
+  left: 0;
+}
+
+.landingpage .image-placeholder-8 {
+  position: absolute;
+  width: 720px;
+  height: 653px;
+  top: 0;
+  left: 0;
+}
+
+.landingpage .overlap-8 {
+  position: absolute;
+  width: 446px;
+  height: 210px;
+  top: 661px;
+  left: 824px;
+}
+
+.landingpage .button-2 {
+  top: 154px;
+  left: 0;
+  position: absolute;
+  width: 160px;
+  height: 56px;
+}
+
+.landingpage .overlap-group-6 {
+  position: relative;
+  width: 160px;
+  height: 56px;
+  border-radius: 100px;
+  box-shadow: 0px 12px 35px #c29e1d57;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+}
+
+.landingpage .text-wrapper-11 {
+  position: absolute;
+  top: 20px;
+  left: 48px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #fffefc;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .semaj-africa-is-an-3 {
+  width: 446px;
+  top: 0;
+  left: 0;
+  color: #5c5c5c;
+  font-size: 14px;
+  line-height: 24.6px;
+  position: absolute;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.landingpage .text-wrapper-12 {
+  position: absolute;
+  width: 301px;
+  top: 448px;
+  left: 824px;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: transparent;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 63.3px;
+}
+
+.landingpage .testimonials {
+  position: absolute;
+  width: 1556px;
+  height: 641px;
+  top: 0;
+  left: 556px;
+}
+
+.landingpage .text-wrapper-13 {
+  position: absolute;
+  width: 534px;
+  top: 0;
+  left: 501px;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: transparent;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 63.3px;
+  white-space: nowrap;
+}
+
+.landingpage .semaj-africa-is-an-4 {
+  width: 585px;
+  top: 82px;
+  left: 475px;
+  color: #5c5c5c;
+  font-size: 14px;
+  text-align: center;
+  line-height: 24.6px;
+  position: absolute;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.landingpage .card {
+  left: 393px;
+  position: absolute;
+  width: 379px;
+  height: 343px;
+  top: 201px;
+}
+
+.landingpage .overlap-group-7 {
+  position: relative;
+  width: 375px;
+  height: 345px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #eeeeee;
+  box-shadow: 0px 12px 35px #a0780033;
+}
+
+.landingpage .overlap-group-8 {
+  position: absolute;
+  width: 284px;
+  height: 217px;
+  top: 91px;
+  left: 40px;
+}
+
+.landingpage .semaj-africa-is-an-5 {
+  position: absolute;
+  width: 284px;
+  top: 0;
+  left: 0;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24.6px;
+}
+
+.landingpage .user-pic {
+  position: absolute;
+  width: 58px;
+  height: 57px;
+  top: 160px;
+  left: 0;
+}
+
+.landingpage .text-wrapper-14 {
+  width: 112px;
+  top: 173px;
+  left: 70px;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #5c5c5c;
+  font-size: 16px;
+  line-height: 16.9px;
+  white-space: nowrap;
+  position: absolute;
+  letter-spacing: 0;
+}
+
+.landingpage .text-wrapper-15 {
+  position: absolute;
+  width: 149px;
+  top: 196px;
+  left: 70px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: 12.7px;
+  white-space: nowrap;
+}
+
+.landingpage .image {
+  position: absolute;
+  width: 34px;
+  height: 26px;
+  top: 40px;
+  left: 39px;
+}
+
+.landingpage .overlap-wrapper {
+  left: 786px;
+  opacity: 0.5;
+  position: absolute;
+  width: 379px;
+  height: 343px;
+  top: 201px;
+}
+
+.landingpage .overlap-9 {
+  position: relative;
+  width: 375px;
+  height: 345px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #eeeeee;
+}
+
+.landingpage .card-2 {
+  left: 1179px;
+  opacity: 0.35;
+  position: absolute;
+  width: 379px;
+  height: 343px;
+  top: 201px;
+}
+
+.landingpage .card-3 {
+  left: 0;
+  opacity: 0.35;
+  position: absolute;
+  width: 379px;
+  height: 343px;
+  top: 201px;
+}
+
+.landingpage .loader {
+  position: absolute;
+  width: 160px;
+  height: 1px;
+  top: 641px;
+  left: 688px;
+}
+
+.landingpage .group-6 {
+  height: 1px;
+}
+
+.landingpage .line-wrapper {
+  position: relative;
+  width: 160px;
+  height: 7px;
+  top: -7px;
+  background-image: url(./img/line-18.png);
+  background-size: 100% 100%;
+}
+
+.landingpage .line {
+  position: absolute;
+  width: 80px;
+  height: 7px;
+  top: 0;
+  left: 0;
+}
+
+.landingpage .newsletter {
+  position: absolute;
+  width: 880px;
+  height: 155px;
+  top: 1381px;
+  left: 886px;
+}
+
+.landingpage .overlap-10 {
+  position: absolute;
+  width: 331px;
+  height: 155px;
+  top: 0;
+  left: 0;
+}
+
+.landingpage .text-wrapper-16 {
+  position: absolute;
+  width: 301px;
+  top: 77px;
+  left: 0;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 24.6px;
+}
+
+.landingpage .subscribe-to-our {
+  position: absolute;
+  width: 331px;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: transparent;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .form {
+  position: absolute;
+  width: 525px;
+  height: 56px;
+  top: 54px;
+  left: 353px;
+}
+
+.landingpage .overlap-11 {
+  position: relative;
+  width: 523px;
+  height: 56px;
+}
+
+.landingpage .div-2 {
+  position: absolute;
+  width: 523px;
+  height: 56px;
+  top: 0;
+  left: 0;
+}
+
+.landingpage .rectangle-3 {
+  position: relative;
+  width: 525px;
+  height: 58px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 100px;
+  border: 1px solid;
+  border-color: #eeeeee;
+  box-shadow: var(--3);
+}
+
+.landingpage .group-7 {
+  position: absolute;
+  width: 160px;
+  height: 56px;
+  top: 0;
+  left: 363px;
+}
+
+.landingpage .text-wrapper-17 {
+  position: absolute;
+  top: 20px;
+  left: 57px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #fffefc;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .text-wrapper-18 {
+  position: absolute;
+  top: 19px;
+  left: 31px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #979797;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .pricing {
+  position: absolute;
+  width: 1580px;
+  height: 731px;
+  top: 550px;
+  left: 249px;
+}
+
+.landingpage .rectangle-4 {
+  position: absolute;
+  width: 60px;
+  height: 426px;
+  top: 10px;
+  left: 325px;
+}
+
+.landingpage .group-8 {
+  position: absolute;
+  width: 1027px;
+  height: 504px;
+  top: 227px;
+  left: 557px;
+}
+
+.landingpage .button-3 {
+  top: 347px;
+  left: 0;
+  position: absolute;
+  width: 160px;
+  height: 56px;
+}
+
+.landingpage .text-wrapper-19 {
+  position: absolute;
+  top: 19px;
+  left: 35px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #fffefc;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .our-pricing-plans {
+  position: absolute;
+  width: 252px;
+  top: 112px;
+  left: 0;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: transparent;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 63.3px;
+}
+
+.landingpage .text-wrapper-20 {
+  width: 359px;
+  top: 264px;
+  left: 0;
+  color: #5c5c5c;
+  font-size: 14px;
+  line-height: 24.6px;
+  position: absolute;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.landingpage .card-4 {
+  position: absolute;
+  width: 293px;
+  height: 504px;
+  top: 0;
+  left: 451px;
+}
+
+.landingpage .overlap-12 {
+  position: relative;
+  width: 275px;
+  height: 506px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #eeeeee;
+}
+
+.landingpage .rectangle-5 {
+  position: absolute;
+  width: 273px;
+  height: 67px;
+  top: 437px;
+  left: 0;
+}
+
+.landingpage .text-wrapper-21 {
+  width: 165px;
+  top: 44px;
+  left: 37px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 24px;
+  line-height: 42.2px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.landingpage .overlap-group-9 {
+  position: absolute;
+  width: 229px;
+  height: 102px;
+  top: 99px;
+  left: 38px;
+}
+
+.landingpage .text-wrapper-22 {
+  position: absolute;
+  width: 69px;
+  top: 77px;
+  left: 125px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .text-wrapper-23 {
+  position: absolute;
+  width: 17px;
+  top: 0;
+  left: 0;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: 42.2px;
+  white-space: nowrap;
+}
+
+.landingpage .text-wrapper-24 {
+  position: absolute;
+  width: 221px;
+  top: 0;
+  left: 8px;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: transparent;
+  font-size: 101px;
+  letter-spacing: 0;
+  line-height: 177.5px;
+  white-space: nowrap;
+}
+
+.landingpage .text-wrapper-25 {
+  width: 194px;
+  top: 230px;
+  left: 37px;
+  color: #5c5c5c;
+  font-size: 10px;
+  line-height: 17.6px;
+  position: absolute;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.landingpage .text-wrapper-26 {
+  position: absolute;
+  width: 89px;
+  top: 305px;
+  left: 58px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 17.6px;
+  white-space: nowrap;
+}
+
+.landingpage .group-9 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 305px;
+  left: 36px;
+}
+
+.landingpage .text-wrapper-27 {
+  position: absolute;
+  width: 89px;
+  top: 331px;
+  left: 58px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 17.6px;
+  white-space: nowrap;
+}
+
+.landingpage .group-10 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 331px;
+  left: 36px;
+}
+
+.landingpage .text-wrapper-28 {
+  position: absolute;
+  width: 89px;
+  top: 357px;
+  left: 58px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 17.6px;
+  white-space: nowrap;
+}
+
+.landingpage .group-11 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 357px;
+  left: 36px;
+}
+
+.landingpage .text-wrapper-29 {
+  position: absolute;
+  width: 89px;
+  top: 383px;
+  left: 58px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 17.6px;
+  white-space: nowrap;
+}
+
+.landingpage .group-12 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 383px;
+  left: 36px;
+}
+
+.landingpage .text-wrapper-30 {
+  position: absolute;
+  width: 96px;
+  top: 409px;
+  left: 58px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 17.6px;
+  white-space: nowrap;
+}
+
+.landingpage .group-13 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 409px;
+  left: 36px;
+}
+
+.landingpage .card-5 {
+  position: absolute;
+  width: 293px;
+  height: 504px;
+  top: 0;
+  left: 750px;
+}
+
+.landingpage .overlap-13 {
+  position: relative;
+  width: 275px;
+  height: 506px;
+  top: -1px;
+  left: -1px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: #eeeeee;
+  box-shadow: 0px 12px 35px #a0780033;
+}
+
+.landingpage .overlap-group-10 {
+  position: absolute;
+  width: 229px;
+  height: 120px;
+  top: 99px;
+  left: 38px;
+}
+
+.landingpage .text-wrapper-31 {
+  position: absolute;
+  width: 69px;
+  top: 98px;
+  left: 118px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .text-wrapper-32 {
+  width: 194px;
+  top: 235px;
+  left: 37px;
+  color: #5c5c5c;
+  font-size: 10px;
+  line-height: 17.6px;
+  position: absolute;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.landingpage .text-wrapper-33 {
+  position: absolute;
+  width: 89px;
+  top: 310px;
+  left: 58px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 17.6px;
+  white-space: nowrap;
+}
+
+.landingpage .group-14 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 310px;
+  left: 36px;
+}
+
+.landingpage .text-wrapper-34 {
+  position: absolute;
+  width: 89px;
+  top: 336px;
+  left: 58px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 17.6px;
+  white-space: nowrap;
+}
+
+.landingpage .group-15 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 336px;
+  left: 36px;
+}
+
+.landingpage .text-wrapper-35 {
+  position: absolute;
+  width: 89px;
+  top: 362px;
+  left: 58px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 17.6px;
+  white-space: nowrap;
+}
+
+.landingpage .group-16 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 362px;
+  left: 36px;
+}
+
+.landingpage .text-wrapper-36 {
+  position: absolute;
+  width: 89px;
+  top: 388px;
+  left: 58px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 17.6px;
+  white-space: nowrap;
+}
+
+.landingpage .group-17 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 388px;
+  left: 36px;
+}
+
+.landingpage .text-wrapper-37 {
+  position: absolute;
+  width: 96px;
+  top: 414px;
+  left: 58px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 10px;
+  letter-spacing: 0;
+  line-height: 17.6px;
+  white-space: nowrap;
+}
+
+.landingpage .group-18 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 414px;
+  left: 36px;
+}
+
+.landingpage .footer {
+  position: absolute;
+  width: 1512px;
+  height: 314px;
+  top: 2215px;
+  left: 574px;
+  background-color: transparent;
+}
+
+.landingpage .overlap-14 {
+  position: relative;
+  width: 1500px;
+  height: 314px;
+}
+
+.landingpage .rectangle-6 {
+  position: absolute;
+  width: 1500px;
+  height: 312px;
+  top: 0;
+  left: 0;
+  background-color: #212121;
+}
+
+.landingpage .social-icons {
+  position: absolute;
+  width: 114px;
+  height: 21px;
+  top: 206px;
+  left: 131px;
+}
+
+.landingpage .social-icons-2 {
+  position: relative;
+  height: 21px;
+}
+
+.landingpage .element-3 {
+  position: absolute;
+  width: 20px;
+  height: 21px;
+  top: 0;
+  left: 0;
+}
+
+.landingpage .element-4 {
+  position: absolute;
+  width: 20px;
+  height: 21px;
+  top: 0;
+  left: 31px;
+}
+
+.landingpage .icons-brands-youtube-wrapper {
+  position: absolute;
+  width: 20px;
+  height: 21px;
+  top: 0;
+  left: 62px;
+  background-image: url(./img/oval-copy-16.png);
+  background-size: 100% 100%;
+}
+
+.landingpage .icons-brands-youtube {
+  position: absolute;
+  width: 10px;
+  height: 8px;
+  top: 7px;
+  left: 5px;
+}
+
+.landingpage .icons-brands-wrapper {
+  position: absolute;
+  width: 20px;
+  height: 21px;
+  top: 0;
+  left: 94px;
+  background-image: url(./img/oval-copy-18.png);
+  background-size: 100% 100%;
+}
+
+.landingpage .icons-brands {
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  top: 5px;
+  left: 5px;
+}
+
+.landingpage .text-wrapper-38 {
+  width: 265px;
+  top: 112px;
+  left: 131px;
+  color: #ffffff;
+  font-size: 14px;
+  line-height: normal;
+  position: absolute;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.landingpage .logo {
+  position: absolute;
+  width: 142px;
+  height: 34px;
+  top: 46px;
+  left: 131px;
+}
+
+.landingpage .quicklinks-home {
+  position: absolute;
+  width: 152px;
+  top: 63px;
+  left: 588px;
+  font-family: "Proxima Nova-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+}
+
+.landingpage .text-wrapper-39 {
+  font-weight: 700;
+}
+
+.landingpage .text-wrapper-40 {
+  font-family: "Proxima Nova-Regular", Helvetica;
+  margin-right: 100px;
+}
+
+.landingpage .contact-us-2 {
+  position: absolute;
+  width: 238px;
+  top: 63px;
+  left: 824px;
+  font-family: "Proxima Nova-Bold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+}
+
+.landingpage .terms-and-conditions {
+  position: absolute;
+  width: 203px;
+  top: 167px;
+  left: 1146px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: 26.4px;
+}
+
+.landingpage .rectangle-7 {
+  position: absolute;
+  width: 1499px;
+  height: 39px;
+  top: 273px;
+  left: 0;
+  background-color: #000000;
+}
+
+.landingpage .text-wrapper-41 {
+  position: absolute;
+  width: 354px;
+  top: 286px;
+  left: 60px;
+  font-family: "Proxima Nova-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .privacy-policy-site {
+  position: absolute;
+  width: 354px;
+  top: 286px;
+  left: 1114px;
+  font-family: "Proxima Nova-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 12px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .text-wrapper-42 {
+  color: #ffffff;
+}
+
+.landingpage .text-wrapper-43 {
+  color: #ffc000;
+  text-decoration: underline;
+}
+
+.landingpage .achievement {
+  position: absolute;
+  width: 1500px;
+  height: 298px;
+  top: 3223px;
+  left: 0;
+}
+
+.landingpage .overlap-15 {
+  position: relative;
+  height: 298px;
+}
+
+.landingpage .rectangle-8 {
+  position: absolute;
+  width: 1500px;
+  height: 298px;
+  top: 0;
+  left: 0;
+  transform: rotate(180deg);
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+}
+
+.landingpage .group-19 {
+  position: absolute;
+  width: 1108px;
+  height: 86px;
+  top: 155px;
+  left: 205px;
+}
+
+.landingpage .group-20 {
+  position: absolute;
+  width: 187px;
+  height: 76px;
+  top: 1px;
+  left: 0;
+}
+
+.landingpage .text-wrapper-44 {
+  left: 0;
+  position: absolute;
+  width: 183px;
+  top: 0;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 73.1px;
+  white-space: nowrap;
+}
+
+.landingpage .text-wrapper-45 {
+  position: absolute;
+  width: 133px;
+  top: 53px;
+  left: 26px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .group-21 {
+  position: absolute;
+  width: 187px;
+  height: 76px;
+  top: 0;
+  left: 300px;
+}
+
+.landingpage .text-wrapper-46 {
+  position: absolute;
+  width: 165px;
+  top: 53px;
+  left: 10px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .group-22 {
+  position: absolute;
+  width: 187px;
+  height: 85px;
+  top: 1px;
+  left: 600px;
+}
+
+.landingpage .text-wrapper-47 {
+  position: absolute;
+  width: 181px;
+  top: 49px;
+  left: 2px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .group-23 {
+  position: absolute;
+  width: 235px;
+  height: 86px;
+  top: 0;
+  left: 877px;
+}
+
+.landingpage .text-wrapper-48 {
+  left: 23px;
+  position: absolute;
+  width: 183px;
+  top: 0;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 73.1px;
+  white-space: nowrap;
+}
+
+.landingpage .text-wrapper-49 {
+  position: absolute;
+  width: 231px;
+  top: 50px;
+  left: 0;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .vector {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  top: 82px;
+  left: 627px;
+}
+
+.landingpage .group-24 {
+  position: absolute;
+  width: 100px;
+  height: 89px;
+  top: 43px;
+  left: 534px;
+}
+
+.landingpage .group-25 {
+  position: absolute;
+  width: 103px;
+  height: 90px;
+  top: 43px;
+  left: 231px;
+}
+
+.landingpage .overlap-group-11 {
+  position: relative;
+  height: 90px;
+}
+
+.landingpage .ellipse {
+  position: absolute;
+  width: 78px;
+  height: 78px;
+  top: 0;
+  left: 0;
+  border-radius: 39px;
+  mix-blend-mode: multiply;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+}
+
+.landingpage .group-26 {
+  position: absolute;
+  width: 74px;
+  height: 76px;
+  top: 14px;
+  left: 29px;
+}
+
+.landingpage .group-27 {
+  position: absolute;
+  width: 98px;
+  height: 87px;
+  top: 43px;
+  left: 834px;
+}
+
+.landingpage .overlap-16 {
+  position: relative;
+  height: 87px;
+}
+
+.landingpage .overlap-17 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  top: 17px;
+  left: 28px;
+}
+
+.landingpage .group-28 {
+  position: absolute;
+  width: 30px;
+  height: 29px;
+  top: 41px;
+  left: 0;
+}
+
+.landingpage .group-29 {
+  position: absolute;
+  width: 30px;
+  height: 29px;
+  top: 0;
+  left: 40px;
+}
+
+.landingpage .group-30 {
+  position: absolute;
+  width: 12px;
+  height: 12px;
+  top: 29px;
+  left: 29px;
+}
+
+.landingpage .group-31 {
+  position: absolute;
+  width: 54px;
+  height: 26px;
+  top: 22px;
+  left: 8px;
+}
+
+.landingpage .group-32 {
+  position: absolute;
+  width: 87px;
+  height: 86px;
+  top: 43px;
+  left: 1137px;
+}
+
+.landingpage .overlap-18 {
+  position: relative;
+  height: 86px;
+}
+
+.landingpage .overlap-19 {
+  position: absolute;
+  width: 55px;
+  height: 68px;
+  top: 18px;
+  left: 32px;
+  background-image: url(./img/group-2.png);
+  background-size: 100% 100%;
+}
+
+.landingpage .group-33 {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 9px;
+  left: 7px;
+}
+
+.landingpage .group-34 {
+  position: absolute;
+  width: 28px;
+  height: 27px;
+  top: 16px;
+  left: 14px;
+}
+
+.landingpage .courses {
+  position: absolute;
+  width: 1242px;
+  height: 1126px;
+  top: 2100px;
+  left: 10px;
+}
+
+.landingpage .button-4 {
+  top: 1070px;
+  left: 526px;
+  position: absolute;
+  width: 160px;
+  height: 56px;
+}
+
+.landingpage .text-wrapper-50 {
+  color: #fffefc;
+  position: absolute;
+  top: 20px;
+  left: 53px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .text-wrapper-51 {
+  position: absolute;
+  width: 178px;
+  top: 30px;
+  left: 500px;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: transparent;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 63.3px;
+  white-space: nowrap;
+}
+
+.landingpage .course-nav {
+  position: absolute;
+  width: 716px;
+  height: 25px;
+  top: 92px;
+  left: 270px;
+}
+
+.landingpage .overlap-20 {
+  position: absolute;
+  width: 17px;
+  height: 25px;
+  top: 0;
+  left: 0;
+}
+
+.landingpage .text-wrapper-52 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 190px;
+  font-family: "Proxima Nova-Bold", Helvetica;
+  font-weight: 700;
+  color: #5c5c5c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.landingpage .line-2 {
+  position: absolute;
+  width: 12px;
+  height: 3px;
+  top: 22px;
+  left: 2px;
+}
+
+.landingpage .creative {
+  position: absolute;
+  top: 0;
+  left: 51px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.landingpage .design {
+  position: absolute;
+  top: 0;
+  left: 129px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.landingpage .text-wrapper-53 {
+  position: absolute;
+  top: 0;
+  left: 277px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.landingpage .text-wrapper-54 {
+  left: 350px;
+  position: absolute;
+  top: 0;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.landingpage .photography {
+  left: 463px;
+  position: absolute;
+  top: 0;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.landingpage .photography-2 {
+  left: 598px;
+  position: absolute;
+  top: 0;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #5c5c5c;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 25px;
+  white-space: nowrap;
+}
+
+.landingpage .course {
+  position: absolute;
+  width: 303px;
+  height: 279px;
+  top: 162px;
+  left: 0;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+}
+
+.landingpage .overlap-group-wrapper-2 {
+  position: absolute;
+  width: 305px;
+  height: 73px;
+  top: 206px;
+  left: 0;
+}
+
+.landingpage .overlap-group-12 {
+  position: relative;
+  width: 303px;
+  height: 73px;
+  background-image: url(./img/rectangle-108.png);
+  background-size: 100% 100%;
+}
+
+.landingpage .text-wrapper-55 {
+  position: absolute;
+  top: 13px;
+  left: 30px;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 21.3px;
+}
+
+.landingpage .course-type {
+  position: absolute;
+  width: 72px;
+  height: 33px;
+  top: 0;
+  left: 233px;
+}
+
+.landingpage .overlap-21 {
+  position: relative;
+  width: 70px;
+  height: 33px;
+  background-image: url(./img/rectangle-110.png);
+  background-size: 100% 100%;
+}
+
+.landingpage .text-wrapper-56 {
+  top: 5px;
+  left: 18px;
+  position: absolute;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 21.3px;
+  white-space: nowrap;
+}
+
+.landingpage .course-2 {
+  position: absolute;
+  width: 303px;
+  height: 279px;
+  top: 162px;
+  left: 625px;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+}
+
+.landingpage .text-wrapper-57 {
+  top: 5px;
+  left: 23px;
+  position: absolute;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 21.3px;
+  white-space: nowrap;
+}
+
+.landingpage .course-3 {
+  position: absolute;
+  width: 303px;
+  height: 279px;
+  top: 162px;
+  left: 312px;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+}
+
+.landingpage .course-type-2 {
+  position: absolute;
+  width: 90px;
+  height: 33px;
+  top: 0;
+  left: 215px;
+}
+
+.landingpage .overlap-22 {
+  position: relative;
+  width: 88px;
+  height: 33px;
+  background-image: url(./img/rectangle-112.png);
+  background-size: 100% 100%;
+}
+
+.landingpage .text-wrapper-58 {
+  top: 5px;
+  left: 14px;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  line-height: 21.3px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.landingpage .course-4 {
+  position: absolute;
+  width: 303px;
+  height: 279px;
+  top: 162px;
+  left: 937px;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+}
+
+.landingpage .overlap-23 {
+  position: absolute;
+  width: 305px;
+  height: 279px;
+  top: 456px;
+  left: 0;
+}
+
+.landingpage .course-info-wrapper {
+  position: absolute;
+  width: 303px;
+  height: 279px;
+  top: 0;
+  left: 0;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+}
+
+.landingpage .course-info {
+  position: relative;
+  width: 305px;
+  height: 73px;
+  top: 206px;
+}
+
+.landingpage .text-wrapper-59 {
+  top: 5px;
+  left: 21px;
+  position: absolute;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 21.3px;
+  white-space: nowrap;
+}
+
+.landingpage .course-5 {
+  position: absolute;
+  width: 303px;
+  height: 279px;
+  top: 456px;
+  left: 625px;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+}
+
+.landingpage .text-wrapper-60 {
+  position: absolute;
+  top: 25px;
+  left: 30px;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 21.3px;
+  white-space: nowrap;
+}
+
+.landingpage .course-6 {
+  position: absolute;
+  width: 303px;
+  height: 279px;
+  top: 456px;
+  left: 312px;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+}
+
+.landingpage .course-7 {
+  position: absolute;
+  width: 303px;
+  height: 279px;
+  top: 456px;
+  left: 937px;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+}
+
+.landingpage .course-8 {
+  position: absolute;
+  width: 303px;
+  height: 279px;
+  top: 750px;
+  left: 0;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+}
+
+.landingpage .text-wrapper-61 {
+  top: 6px;
+  left: 21px;
+  position: absolute;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  letter-spacing: 0;
+  line-height: 21.3px;
+  white-space: nowrap;
+}
+
+.landingpage .course-9 {
+  position: absolute;
+  width: 303px;
+  height: 279px;
+  top: 750px;
+  left: 625px;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+}
+
+.landingpage .course-10 {
+  position: absolute;
+  width: 303px;
+  height: 279px;
+  top: 750px;
+  left: 312px;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+}
+
+.landingpage .course-11 {
+  position: absolute;
+  width: 303px;
+  height: 279px;
+  top: 750px;
+  left: 937px;
+  background-color: #c4c4c4;
+  border-radius: 10px;
+}
+
+.landingpage .text-wrapper-62 {
+  top: 6px;
+  left: 14px;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: justify;
+  line-height: 21.3px;
+  position: absolute;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.landingpage .hero-section {
+  width: 1500px;
+  height: 812px;
+  top: 0;
+  position: absolute;
+  left: 0;
+}
+
+.landingpage .overlap-24 {
+  position: relative;
+  width: 1504px;
+  height: 812px;
+}
+
+.landingpage .nav-bar {
+  position: absolute;
+  width: 1500px;
+  height: 114px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 12px 35px #a0780033;
+}
+
+.landingpage .logo-2 {
+  position: absolute;
+  width: 160px;
+  height: 38px;
+  top: 38px;
+  left: 30px;
+}
+
+.landingpage .button-5 {
+  position: absolute;
+  width: 162px;
+  height: 56px;
+  top: 29px;
+  left: 1259px;
+}
+
+.landingpage .text-wrapper-63 {
+  position: absolute;
+  top: 20px;
+  left: 61px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .button-6 {
+  position: absolute;
+  width: 162px;
+  height: 56px;
+  top: 29px;
+  left: 1089px;
+}
+
+.landingpage .text-wrapper-64 {
+  position: absolute;
+  top: 20px;
+  left: 28px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .nav {
+  position: absolute;
+  width: 488px;
+  height: 26px;
+  top: 50px;
+  left: 385px;
+  
+}
+
+.landingpage .group-35 {
+  position: absolute;
+  width: 498px;
+  height: 18px;
+  top: 0;
+  left: 0;
+  padding-right: 20px;
+}
+
+.landingpage .text-wrapper-65 {
+  position: absolute;
+  top: 0;
+  left: 97px;
+  cursor: context-menu;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.landingpage .text-wrapper-66 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor:context-menu;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space:nowrap;
+  padding-right: 20px;
+}
+
+.landingpage .blog {
+  position: absolute;
+  width: 28px;
+  height: 14px;
+  top: 3px;
+  left: 210px;
+}
+
+.landingpage .about-us-2 {
+  position: absolute;
+  width: 60px;
+  height: 11px;
+  top: 3px;
+  left: 296px;
+}
+
+.landingpage .contact-us-3 {
+  position: absolute;
+  width: 72px;
+  height: 11px;
+  top: 3px;
+  left: 415px;
+}
+
+.landingpage .line-3 {
+  position: absolute;
+  width: 22px;
+  height: 3px;
+  top: 23px;
+  left: 9px;
+}
+
+.landingpage .add-to-cart {
+  position: absolute;
+  width: 33px;
+  height: 28px;
+  top: 40px;
+  left: 1032px;
+}
+
+.landingpage .overlap-25 {
+  position: relative;
+  width: 34px;
+  height: 28px;
+  right:140px;
+}
+
+.landingpage .group-36 {
+  position: absolute;
+  width: 21px;
+  height: 18px;
+  top: 10px;
+  left: 0;
+}
+
+.landingpage .ellipse-2 {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 0;
+  left: 20px;
+  border-radius: 6.77px;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+}
+
+.landingpage .element-5 {
+  position: absolute;
+  width: 5px;
+  height: 4px;
+  top: 5px;
+  left: 24px;
+}
+
+.landingpage .hero {
+  width: 1504px;
+  height: 705px;
+  top: 107px;
+  position: absolute;
+  left: 0;
+}
+
+.landingpage .overlap-26 {
+  position: relative;
+  width: 1500px;
+  height: 705px;
+}
+
+.landingpage .rectangle-9 {
+  position: absolute;
+  width: 1500px;
+  height: 698px;
+  top: 7px;
+  left: 0;
+  background: linear-gradient(180deg, rgb(255, 192.02, 0) 0%, rgb(255, 137.7, 0) 100%);
+}
+
+.landingpage .isolated-image-icon {
+  position: absolute;
+  width: 426px;
+  height: 382px;
+  top: 0;
+  left: 866px;
+}
+
+.landingpage .sticker {
+  position: absolute;
+  width: 35px;
+  height: 35px;
+  top: 57px;
+  left: 198px;
+  mix-blend-mode: multiply;
+}
+
+.landingpage .overlap-group-13 {
+  position: absolute;
+  width: 73px;
+  height: 94px;
+  top: 50px;
+  left: 310px;
+}
+
+.landingpage .design-rules {
+  position: absolute;
+  width: 36px;
+  height: 37px;
+  top: 0;
+  left: 37px;
+}
+
+.landingpage .ruler {
+  position: absolute;
+  width: 58px;
+  height: 58px;
+  top: 36px;
+  left: 0;
+}
+
+.landingpage .t-shirt {
+  position: absolute;
+  width: 34px;
+  height: 37px;
+  top: 148px;
+  left: 318px;
+}
+
+.landingpage .pencil-ruler {
+  position: absolute;
+  width: 27px;
+  height: 28px;
+  top: 271px;
+  left: 74px;
+}
+
+.landingpage .pencil-ruler-2 {
+  position: absolute;
+  width: 27px;
+  height: 28px;
+  top: 12px;
+  left: 270px;
+}
+
+.landingpage .envelope {
+  position: absolute;
+  width: 32px;
+  height: 32px;
+  top: 198px;
+  left: 275px;
+}
+
+.landingpage .cmyk {
+  position: absolute;
+  width: 38px;
+  height: 35px;
+  top: 0;
+  left: 214px;
+  mix-blend-mode: multiply;
+}
+
+.landingpage .pocket {
+  position: absolute;
+  width: 37px;
+  height: 39px;
+  top: 15px;
+  left: 141px;
+}
+
+.landingpage .pencil-brush {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 131px;
+  left: 379px;
+}
+
+.landingpage .programming {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  top: 11px;
+  left: 322px;
+}
+
+.landingpage .notebook {
+  position: absolute;
+  width: 45px;
+  height: 52px;
+  top: 124px;
+  left: 242px;
+}
+
+.landingpage .design-2 {
+  position: absolute;
+  width: 42px;
+  height: 42px;
+  top: 54px;
+  left: 260px;
+}
+
+.landingpage .ellipse-3 {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  top: 79px;
+  left: 395px;
+}
+
+.landingpage .img-2 {
+  position: absolute;
+  width: 16px;
+  height: 18px;
+  top: 249px;
+  left: 313px;
+}
+
+.landingpage .vector-2 {
+  position: absolute;
+  width: 65px;
+  height: 51px;
+  top: 245px;
+  left: 365px;
+}
+
+.landingpage .vector-3 {
+  position: absolute;
+  width: 33px;
+  height: 21px;
+  top: 29px;
+  left: 384px;
+}
+
+.landingpage .ellipse-4 {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 356px;
+  left: 0;
+  border-radius: 13px;
+  border: 10px solid;
+  border-color: #ffffff;
+}
+
+.landingpage .button-7 {
+  top: 448px;
+  left: 183px;
+  position: absolute;
+  width: 160px;
+  height: 56px;
+}
+
+.landingpage .overlap-group-14 {
+  position: relative;
+  width: 160px;
+  height: 56px;
+  background-color: #fff7df;
+  border-radius: 100px;
+}
+
+.landingpage .text-wrapper-67 {
+  position: absolute;
+  top: 20px;
+  left: 44px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #ffc000;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.landingpage .text-wrapper-68 {
+  position: absolute;
+  width: 444px;
+  top: 360px;
+  left: 183px;
+  font-family: "Proxima Nova-Regular", Helvetica;
+  font-weight: 400;
+  color: #fff7df;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+}
+
+.landingpage .text-wrapper-69 {
+  position: absolute;
+  width: 534px;
+  top: 136px;
+  left: 183px;
+  font-family: "Proxima Nova-Black", Helvetica;
+  font-weight: 900;
+  color: #fff7df;
+  font-size: 44px;
+  letter-spacing: 0;
+  line-height: 69.7px;
+}
+
+.landingpage .slider-button {
+  position: absolute;
+  width: 127px;
+  height: 116px;
+  top: 533px;
+  left: 182px;
+}
+
+.landingpage .color-book {
+  position: absolute;
+  width: 45px;
+  height: 45px;
+  top: 66px;
+  left: 959px;
+}
