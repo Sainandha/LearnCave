@@ -1,0 +1,14 @@
+1) Landing Page
+2) Home page
+3) Services
+   i)Courses 
+   ii) Assignment
+   iii)Test
+4) Events
+5) Blog
+6) Contact
+7)Signup
+8)Signin
+9)forgot Password
+10)Chatbot
+11) Multi Language
