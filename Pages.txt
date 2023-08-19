@@ -7,6 +7,6 @@
 6) Contact us 
 7) Cart	
 8) Be a Contributor
-9) Login
-10)Register
+9) Sign IN	
+10)Sign UP
 11) Forgot password
