@@ -1,14 +1,28 @@
-1) Landing Page
-2) Home page
-3) Services
-   i)Courses 
-   ii) Assignment
-   iii)Test
-4) Events
-5) Blog
-6) Contact
-7)Signup
-8)Signin
-9)forgot Password
-10)Chatbot
-11) Multi Language
+20-08-2023  Task
+1) Home page -waitinng for logo
+
+2) Login Form -(validation pending) --> Ragul 
+
+3) Contact us - (validation pending)-> Harshini
+
+4) Registration Page --> Divya
+
+5) Blog Page --> Parthiban
+
+6) Events Page --> Sarvesh
+
+Remaining pages :
+
+7) Edit Profile 
+
+8) Services
+
+9) Courses 
+
+10) Test
+
+11) Forgot Password
+
+
+
+
