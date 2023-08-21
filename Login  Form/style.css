@@ -2,7 +2,7 @@
 :root{
     --gradient:linear-gradient(90deg, #f1c40f, #f39c12);
 }
-.img-1{
+.sc{
  
 }
 *{
@@ -542,6 +542,13 @@ header #menu{
 
 .footer .credit a{
     color:#f39c12
+}
+.footer {
+    display: inline-block;
+    margin-right:10px;
+}
+.footer a{
+
 }
 
 
