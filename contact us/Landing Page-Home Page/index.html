@@ -15,6 +15,7 @@
 
     <!-- custo     m css file link  -->
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="Contact.css">
 
 </head>
 <body>
@@ -79,7 +80,7 @@
 
 <!-- blog section starts  -->
 
-<section class="blog" id="blog">
+<!-- <section class="blog" id="blog">
 
     <div class="image">
         <img src="images/4529183.jpg" alt="">
@@ -92,13 +93,13 @@
         <a href="#"><button class="btn">Get Started</button></a>
     </div>
 
-</section>
+</section> -->
 
 <!-- blog section ends -->
 
 <!-- sercive section starts  -->
 
-<section class="services" id="services">
+<!-- <section class="services" id="services">
 
     <h1 class="heading">Popular Courses</h1>
 
@@ -232,13 +233,13 @@
 
     </div>
 
-</section>
+</section> -->
 
 <!-- course section ends -->
 
 <!-- teacher section starts  -->
 
-<section class="event" id="event">
+<!-- <section class="event" id="event">
 
     <h1 class="heading">Upcoming Events</h1>
 
@@ -246,7 +247,7 @@
 
     <a href="#"><button class="btn">More</button></a>
 
-</section>
+</section> -->
 
 <!-- teacher section ends -->
 
@@ -254,23 +255,17 @@
 
 <section class="contact" id="contact">
 
-    <h1 class="heading">contact us</h1>
+   
 
-    <div class="row">
-
-        <form action="">
-            <input type="text" placeholder="Name" class="box">
-            <input type="email" placeholder="Email" class="box">
-            <!-- <input type="password" placeholder="Пороль" class="box">
-            <input type="number" placeholder="Номер" class="box"> -->
-            <textarea name="" id="" cols="30" rows="10" class="box address" placeholder="Message"></textarea>
-            <input type="submit" class="btn" value="Contact Us">
+    <div class="container">
+        <form onsubmit="sendEmail(); reset(); return false;">
+            <h3>Contact Us</h3>
+            <input type="text" id="name" placeholder="Your Name" required>
+            <input type="email" id="email" placeholder="Email id" required> 
+            <textarea id="message" rows="4" placeholder="How can we help you?"></textarea>
+            <button type="submit">send</button>
         </form>
-
-        <div class="image">
-            <img src="images/contact-img.png" alt="">
-        </div>
-
+        <img src="Landing Page-Home Page\images\contact-img.png" alt="">
     </div>
 
 </section>
