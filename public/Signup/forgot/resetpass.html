@@ -3,13 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-compatible" content="IE=edge">
+    <link rel="icon" type="image/png" href="user-graduate-solid.svg">
     <!-- <link rel="icon" href="Signup/forgot/user-graduate-solid.svg" type="image/svg+xml"> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Learn Cave</title>
     <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"></script>
 		<script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"></script>
 		<script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-database.js"> </script>
-    <script type="module" src="script.js" ></script>
+    <script src="script.js" ></script>
     <!--css link-->
     <!-- <link rel="stylesheet" href="css/Reset-css/style.css"> -->
     <style>
@@ -112,6 +113,27 @@
 .submit-btn:hover {
     opacity: 0.8;
 }
+.email {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+  }
+  .reset-button {
+    background-color: #009688;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 150px;
+  }
+  .reset-button:hover {
+    background-color: white;
+    color: black;
+  }
+
     </style>
 </head>
 <body>
@@ -125,19 +147,12 @@
                 </p>
             </div>
 
-            <form action="" class="from">
-                <div class="input-group">
-                    <label for="" class="label-title">Enter your mail</label>
-                    <input id="email3" type="email" name="email" placeholder="Enter your email">
-                    <span class="icon">&#9993;</span>   
-                </div>
-
-                <div class="input-group">
-                    <button class="submit-btn" type="button" id="forgot">send Reset Email</button>
-                </div>
-            </form>
+            <input class="email" id="email3" placeholder="Enter email">
+            <button  class="reset-button" onclick="reset()">Reset password</button>
         </div>
     </div>   
+
+ 
     
 </body>
 </html>
